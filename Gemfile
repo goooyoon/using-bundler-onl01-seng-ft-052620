@@ -7,3 +7,5 @@ gem "sinatra"
 group :development do
   gem "pry"
 end
+
+gem 'rack', git: 'https://github.com/rack/rack'
