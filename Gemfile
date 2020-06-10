@@ -9,3 +9,5 @@ group :development do
 end
 
 gem 'rack', git: 'https://github.com/rack/rack'
+
+gem "pry", :groups => [:development, :test]
